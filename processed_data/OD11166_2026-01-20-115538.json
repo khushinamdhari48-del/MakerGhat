@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "filename": "OD11166_2026-01-20-115538.json",
+    "quality_status": "Success",
+    "transcription_density_wpm": 5.63,
+    "total_segments": 42,
+    "total_duration_sec": 3132.85,
+    "teacher_dominance_ratio": 98.67,
+    "student_participation_indicator": 38.1,
+    "interaction_count": 26,
+    "questions_asked": 6
+  },
+  "utterances": [
+    {
+      "speaker_label": "Teacher",
+      "start_time": 0.05,
+      "end_time": 1.05,
+      "text": "Do you have any questions before we begin?",
+      "confidence": -0.94
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 238.53,
+      "end_time": 252.08,
+      "text": "अंधपीकलो दे�",
+      "confidence": -2.71
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 252.08,
+      "end_time": 254.49,
+      "text": "आपका लाट्टाब कोल के लेक्टा हूँ।",
+      "confidence": -0.6
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 293.63,
+      "end_time": 295.63,
+      "text": "अभी एक पीजा हूँ देखो",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 298.11,
+      "end_time": 300.11,
+      "text": "ये देख सकता हूँ ?",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 300.11,
+      "end_time": 360.48,
+      "text": "तेख ना",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 360.48,
+      "end_time": 402.0,
+      "text": "दिखाई देरा है आप दो ?",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 402.0,
+      "end_time": 405.66,
+      "text": "तो चलो ये है अपना प्रेपर प्लें",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 405.66,
+      "end_time": 407.66,
+      "text": "प्रेपर प्लें",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 407.66,
+      "end_time": 411.13,
+      "text": "उपर है हम लिफ्ट कर रहे हैं",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 411.13,
+      "end_time": 413.68,
+      "text": "L I",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 413.68,
+      "end_time": 428.57,
+      "text": "चलो तो सामने जो है",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 428.57,
+      "end_time": 430.57,
+      "text": "सामने है आप लोको",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 430.57,
+      "end_time": 432.73,
+      "text": "आच्छे पे देखो",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 437.44,
+      "end_time": 438.64,
+      "text": "ये आप Play",
+      "confidence": -1.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 438.64,
+      "end_time": 442.49,
+      "text": "पादते हूँ ?",
+      "confidence": -1.63
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 442.49,
+      "end_time": 446.38,
+      "text": "आपके शक्टी harm",
+      "confidence": -1.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 451.16,
+      "end_time": 453.45,
+      "text": "ये भाद, भी अपह Forschा Alone",
+      "confidence": -1.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 518.0,
+      "end_time": 522.75,
+      "text": "त्रूस्ट",
+      "confidence": -1.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 522.75,
+      "end_time": 528.4,
+      "text": "ती",
+      "confidence": -1.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 528.4,
+      "end_time": 533.21,
+      "text": "त्रूस्ट",
+      "confidence": -1.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 580.52,
+      "end_time": 600.21,
+      "text": "चलो आप मेंने का वारी, वीश्वरी, वीश्वरी कोना है, वीश्वरी भीश्वरी, ये नम्मब सब थीसडा वारा तीन है।",
+      "confidence": -0.86
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 600.21,
+      "end_time": 614.32,
+      "text": "चलो, कि अएरो प्लेइन है क्या जाओा रहा रहा हैं?",
+      "confidence": -0.86
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 614.32,
+      "end_time": 631.51,
+      "text": "छ्ै भार्स्त क्यों लिखा मैंने ऍवट क्यों लिखा?",
+      "confidence": -0.86
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 631.51,
+      "end_time": 635.01,
+      "text": "रुप। घुत्टा रही हैं। टरही हैं।",
+      "confidence": -1.32
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 635.01,
+      "end_time": 642.13,
+      "text": "लिजे यर पर चने हैं। तो तो ठ़िए अच्छ़ि!",
+      "confidence": -1.32
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 644.8,
+      "end_time": 646.8,
+      "text": "वो च zap पर च चाहिए हैं।",
+      "confidence": -1.32
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 646.8,
+      "end_time": 648.8,
+      "text": "आजा लिजे यर पर चाहिए हैं।",
+      "confidence": -1.32
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 648.8,
+      "end_time": 651.19,
+      "text": "आलगारा भावाद।",
+      "confidence": -1.32
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 651.19,
+      "end_time": 653.83,
+      "text": "काट्टि की जा रही हैं।",
+      "confidence": -1.32
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 653.83,
+      "end_time": 702.55,
+      "text": "न monsieur no monsieur",
+      "confidence": -1.32
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 702.55,
+      "end_time": 707.36,
+      "text": "आजा रुप।",
+      "confidence": -1.32
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 707.36,
+      "end_time": 715.88,
+      "text": "आजी, कुणाल नहीं घरो ...",
+      "confidence": -0.76
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 717.96,
+      "end_time": 721.18,
+      "text": "कौई बॉलता हैं स्वामी, कुणाल, इजवाल ..",
+      "confidence": -0.76
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 721.58,
+      "end_time": 725.59,
+      "text": "क्या हैं आपके ना चणो ...",
+      "confidence": -0.76
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 732.34,
+      "end_time": 735.75,
+      "text": "कुणाल को बॉलाता हूं",
+      "confidence": -0.76
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 735.75,
+      "end_time": 738.01,
+      "text": "सिद्ढी को बॉलाता हूं भ़र",
+      "confidence": -0.76
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 738.25,
+      "end_time": 740.25,
+      "text": "कुश्ता को इडार से बॉलाता हूं",
+      "confidence": -0.76
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 741.18,
+      "end_time": 743.68,
+      "text": "इम्रन ...",
+      "confidence": -0.76
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 748.21,
+      "end_time": 751.3,
+      "text": "चोब अभी प्लेम कराने के लिए",
+      "confidence": -0.76
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 751.3,
+      "end_time": 995.22,
+      "text": "प्रजका गूप से आज्ध्या, दोस्रा खुनाल, दोस्रे गूप से खुनाल, तीस्टवे गूप से सिप्धि, खुश्ना, अत्मु गुश्ना, शुमित्, इन्टिंगो पेफर लिए आजा, चलो भाई खुनाल, चलो जैक्पोट है खुनाल, दोस्ती बाई चाहंस किला इसक",
+      "confidence": -0.46
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 995.22,
+      "end_time": 2052.84,
+      "text": "से स्वराज पना रहे है न, जैसे कि इम्रन वाला गूप है पाच नम्बर, ये स्वराज वाला गूप है चार नम्बर, क्योंकि आपने उड़ाओगे यासे नहीं लिए आपने लोग के लिए, इसना हल्ला करते हो, चलो आपका नाम क्या है, स्वरू, बिजाइन में समस्यत",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 2052.84,
+      "end_time": 3611.32,
+      "text": "तो इस भी अच्टमम्र दिजान की है, और इस डिजान की वालगीlrимоं के लिए क bezpieचאן य thick",
+      "confidence": -2.2
+    }
+  ]
+}

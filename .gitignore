@@ -1,0 +1,24 @@
+# .gitignore
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Agent & System (Private)
+.agents/
+.gemini/
+.system_generated/
+.gsd/
+*.webp
+*.png
+*.jpg
+*.mp4
+
+# Local Data (Heavy)
+audio/
+models/
+
+# System
+.DS_Store
+Thumbs.db

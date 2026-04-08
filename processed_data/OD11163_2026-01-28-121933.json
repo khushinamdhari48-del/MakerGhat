@@ -1,0 +1,1275 @@
+{
+  "metadata": {
+    "filename": "OD11163_2026-01-28-121933.json",
+    "quality_status": "Success",
+    "transcription_density_wpm": 93.11,
+    "total_segments": 180,
+    "total_duration_sec": 837.72,
+    "teacher_dominance_ratio": 82.03,
+    "student_participation_indicator": 37.22,
+    "interaction_count": 89,
+    "questions_asked": 28
+  },
+  "utterances": [
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1.1,
+      "end_time": 5.1,
+      "text": "आज हमारा प्लाज रेकौड हो रही हैं।",
+      "confidence": -0.27
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 5.1,
+      "end_time": 8.1,
+      "text": "तो कोई हल्ला वस्ती नहीं।",
+      "confidence": -0.27
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 8.1,
+      "end_time": 12.1,
+      "text": "और आज हमारी प्लाज का रूज बनाएंगे पहले।",
+      "confidence": -0.27
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 12.1,
+      "end_time": 14.1,
+      "text": "क्या क्या रूज हैं?",
+      "confidence": -0.27
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 14.1,
+      "end_time": 20.1,
+      "text": "पहला रूज हैं कि जब मैं बताउंगी, जब मैं कुछ पोलूगी आपको,",
+      "confidence": -0.27
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 20.1,
+      "end_time": 26.26,
+      "text": "आपको तरह मोझे बाज रूज बताना हैं, क्या क्या से बताउगे?",
+      "confidence": -0.9
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 26.26,
+      "end_time": 29.26,
+      "text": "एज बताउगी आप? एज से करींकि!",
+      "confidence": -0.9
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 29.26,
+      "end_time": 32.26,
+      "text": "यहल था ना, एज से बताउगे।",
+      "confidence": -0.9
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 32.26,
+      "end_time": 37.26,
+      "text": "मतलब कोई बात नहीं खुइंगे, इसकु लॉने councils पहला रेकौड की वेंच्याज करना.",
+      "confidence": -0.9
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 37.26,
+      "end_time": 39.67,
+      "text": "लिए हमारा भलं विवानि करते है।",
+      "confidence": -1.82
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 40.11,
+      "end_time": 44.35,
+      "text": "ये, हैन विवानाise करना पर हुटाना।",
+      "confidence": -1.82
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 46.75,
+      "end_time": 48.49,
+      "text": "विवानि करने म coding क्या है।",
+      "confidence": -1.82
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 48.65,
+      "end_time": 51.22,
+      "text": "हांट काई Punkte तो हांट का आएंगी",
+      "confidence": -1.82
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 51.34,
+      "end_time": 54.05,
+      "text": "साएई क्या हैं, लिए हम इस भावद साछ की वांट relay कर Gentlemen.",
+      "confidence": -1.82
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 54.17,
+      "end_time": 56.21,
+      "text": "विवांत लिए हानट का आएंगी।",
+      "confidence": -1.82
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 56.21,
+      "end_time": 59.19,
+      "text": "कोई बाते नहीं",
+      "confidence": -0.28
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 59.19,
+      "end_time": 60.4,
+      "text": "तीक है",
+      "confidence": -0.28
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 60.4,
+      "end_time": 63.4,
+      "text": "यह हमारा फर्स टूल होगा",
+      "confidence": -0.28
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 63.4,
+      "end_time": 65.4,
+      "text": "सेकेट टूल क्या है",
+      "confidence": -0.28
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 65.4,
+      "end_time": 66.4,
+      "text": "सेकेट टूल है",
+      "confidence": -0.28
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 66.4,
+      "end_time": 69.4,
+      "text": "जब भी आप कुछ काम करोगे",
+      "confidence": -0.28
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 69.4,
+      "end_time": 71.4,
+      "text": "मतलब आज हम कुछ नहीं आप्टिविटिस करने वाले हैं",
+      "confidence": -0.28
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 71.4,
+      "end_time": 73.4,
+      "text": "कुछ बनाएंगे हम",
+      "confidence": -0.28
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 73.4,
+      "end_time": 75.43,
+      "text": "और उसके साथ साथ जो बना रहे हैं",
+      "confidence": -0.28
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 141.29,
+      "end_time": 146.29,
+      "text": "काएचे, किछना, भार्फिजना, कुछ भी हम नहीं करेंगे",
+      "confidence": -0.74
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 146.29,
+      "end_time": 149.42,
+      "text": "सांग्टी से हम काम करेंगे",
+      "confidence": -0.74
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 150.61,
+      "end_time": 155.56,
+      "text": "साथ तूल परॉल हैं",
+      "confidence": -0.74
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 157.56,
+      "end_time": 161.8,
+      "text": "में पीछेवारदी क्या में प्ताया था",
+      "confidence": -0.74
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 161.8,
+      "end_time": 164.15,
+      "text": "क्या लोता हमारा उसके साथ साथूल",
+      "confidence": -0.74
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 164.15,
+      "end_time": 166.15,
+      "text": "यह हम भूल गया हो",
+      "confidence": -0.74
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 166.15,
+      "end_time": 168.15,
+      "text": "कोई बाच नहीं, यह खीज पर बकाई था",
+      "confidence": -0.74
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 168.15,
+      "end_time": 170.67,
+      "text": "मारा पिञ्ज़ रूर है",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 171.76,
+      "end_time": 173.92,
+      "text": "हम जब क्या भी खाम करें cięरेंगे",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 174.16,
+      "end_time": 177.61,
+      "text": "कुछ सामान जीजों लेकर खाम करेंगे",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 177.77,
+      "end_time": 193.85,
+      "text": "है न?",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 195.49,
+      "end_time": 198.59,
+      "text": "यएज और ना?",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 198.63,
+      "end_time": 200.15,
+      "text": "यएज!",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 200.15,
+      "end_time": 200.91,
+      "text": "वेरी गूद...",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 200.91,
+      "end_time": 203.39,
+      "text": "और हमारा लाज नियम क्या हैं?",
+      "confidence": -0.47
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 204.7,
+      "end_time": 210.78,
+      "text": "लाज नियम कि जब भी हम क्याम करेंगे तो हम क्या करेंगे?",
+      "confidence": -0.47
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 210.78,
+      "end_time": 213.74,
+      "text": "हम नाद चुक आपसे दे तो सटश्ट रखेंगे",
+      "confidence": -0.47
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 213.74,
+      "end_time": 216.62,
+      "text": "यहदर अपना खच्ड़ा निजी सेखेंगे",
+      "confidence": -0.47
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 216.62,
+      "end_time": 217.62,
+      "text": "तीक हैं?",
+      "confidence": -0.47
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 218.06,
+      "end_time": 224.28,
+      "text": "अपना कच्ड़ा के समझना हैं, तो एक साइर आप आप कि जमा करेंगे",
+      "confidence": -0.85
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 224.28,
+      "end_time": 227.42,
+      "text": "और भादमें जाती कैंगे ज़ास्ट बीळ सेखेंगे",
+      "confidence": -0.85
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 227.42,
+      "end_time": 228.42,
+      "text": "तीक हैं?",
+      "confidence": -0.85
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 229.71,
+      "end_time": 233.51,
+      "text": "समझना आगे तो पतकेन मुझे बतावो",
+      "confidence": -0.85
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 233.51,
+      "end_time": 238.1,
+      "text": "कि हमारा रूल तो तो हैं, तो ऑपने शाथना देखेंगे",
+      "confidence": -0.85
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 238.1,
+      "end_time": 239.54,
+      "text": "पहले बताओ",
+      "confidence": -0.85
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 239.54,
+      "end_time": 241.54,
+      "text": "पहले रूल कौन पताओगे?",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 241.54,
+      "end_time": 249.65,
+      "text": "जब ही बोल गा है?",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 249.65,
+      "end_time": 251.81,
+      "text": "क्याईज्ये बतागा है?",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 251.81,
+      "end_time": 254.19,
+      "text": "अब खाँट लिए पर रूरिकाँ हैं",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 254.19,
+      "end_time": 256.19,
+      "text": "चीला शिकान के ती चर ती चर",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 256.19,
+      "end_time": 258.19,
+      "text": "नहीं कर नाँ",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 258.19,
+      "end_time": 263.52,
+      "text": "दूज्टी रूल?",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 263.52,
+      "end_time": 267.18,
+      "text": "दूज्टी लियम क्या है?",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 267.18,
+      "end_time": 269.92,
+      "text": "कौन पतागे?",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 269.92,
+      "end_time": 274.03,
+      "text": "आपको भुइ काम करे केई",
+      "confidence": -0.75
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 274.03,
+      "end_time": 276.03,
+      "text": "एक साया भुइ काम करे के लिए",
+      "confidence": -0.75
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 276.03,
+      "end_time": 278.06,
+      "text": "मतलब 3-4",
+      "confidence": -0.75
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 278.06,
+      "end_time": 281.06,
+      "text": "मारे आपने 25 बचे और हमारे 25 बचे और हैं",
+      "confidence": -0.75
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 283.06,
+      "end_time": 285.06,
+      "text": "पाँज बुप करेंके",
+      "confidence": -0.75
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 285.06,
+      "end_time": 287.06,
+      "text": "पाँज लोगों",
+      "confidence": -0.75
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 287.06,
+      "end_time": 289.06,
+      "text": "हर एक भुप में",
+      "confidence": -0.75
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 289.06,
+      "end_time": 291.06,
+      "text": "पान्च-पान्च बचे रहे हैं",
+      "confidence": -0.75
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 291.06,
+      "end_time": 293.06,
+      "text": "समझझड़ाइ",
+      "confidence": -0.75
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 293.06,
+      "end_time": 302.06,
+      "text": "असना जो ग्रूप बनेगा उस ग्रूप में हम अच्छे से प्यार से एक दुस्रे के साथ मिल के काम परेगें।",
+      "confidence": -0.32
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 302.06,
+      "end_time": 306.9,
+      "text": "जगड़ेना नहीं हैं, वो हमारा दुस्टर रूल हो गया।",
+      "confidence": -0.32
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 306.9,
+      "end_time": 308.9,
+      "text": "दुस्टर रूल क्या था?",
+      "confidence": -0.32
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 308.9,
+      "end_time": 317.18,
+      "text": "बतादू आपको सब पतादू पटापटी।",
+      "confidence": -0.32
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 324.42,
+      "end_time": 327.42,
+      "text": "कज्ड़ा नहीं फेगता हैं, आ यह चौटी रूल था हमारा.",
+      "confidence": -0.29
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 327.42,
+      "end_time": 329.8,
+      "text": "चौटी रूल था क्या?",
+      "confidence": -0.29
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 329.8,
+      "end_time": 333.05,
+      "text": "कज्ड़ा नहीं फेगते हैं.",
+      "confidence": -0.29
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 333.05,
+      "end_time": 341.24,
+      "text": "अगर कज्ड़ा बना हैं, तो हम एक साइड में अपने तर्थे करते हैं, उसको बाग में टास्ट मिल नहीं हैं।",
+      "confidence": -0.29
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 566.12,
+      "end_time": 620.35,
+      "text": "प्रनाव, उनका लाम ही प्रनाव, के लाम सकेती हो शायostenनात flavour तो घया है, नक्सता गाते है phone name,",
+      "confidence": -2.05
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 621.83,
+      "end_time": 635.06,
+      "text": "प्रनाव का प्रस् मेरामे को पेिसो बाल का वाहनी ही प्रेनाव के आप ऐसनिकता है तो पौवजंक्में फरुश सब्mbleकाल.",
+      "confidence": -2.05
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 635.06,
+      "end_time": 653.21,
+      "text": "वेकिन। सब पहाँ राख देखा, असमान से बादर दीन ही जारा था, इतना भारी वर्षन लो रहा था.",
+      "confidence": -0.52
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 653.21,
+      "end_time": 657.21,
+      "text": "भारी वर्षन पता हैंगा न? पहाँ भारी जो रहा था, पहाँ दगा लोता है.",
+      "confidence": -0.52
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 657.21,
+      "end_time": 670.21,
+      "text": "और चानब से ये दो गाउ के पीच में जो रस्ता था उस में एक पहर से नदी आपके उसके रस्ते को धख दिया",
+      "confidence": -0.26
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 670.21,
+      "end_time": 676.21,
+      "text": "और एक वार आपके पूरा चारो दार पानी और पानी हो गया",
+      "confidence": -0.26
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 676.21,
+      "end_time": 681.63,
+      "text": "आप सब ने तलाओ देखा है न? तलाओ देखा है?",
+      "confidence": -0.26
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 682.63,
+      "end_time": 686.63,
+      "text": "पर तलाओ से भी भहुत जाला उचा पानी का स्तर्थ होगा",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 686.63,
+      "end_time": 690.63,
+      "text": "अमला पानी इतना भह्या होगा और दोलो गाउ अलग-अलग होगा",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 690.63,
+      "end_time": 694.63,
+      "text": "त्या हुँ अचानब से एक वरे अपने पारापा था दोनो गाउ अलग-अलग होगा",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 694.63,
+      "end_time": 700.23,
+      "text": "और सब को बता हैं जर्व का तब्यार भहुत खराब हैं दो तीन देख से",
+      "confidence": -0.42
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 700.23,
+      "end_time": 710.66,
+      "text": "तो राहुर और प्यानाम था लेकिका राहुर और मिना कप भहुत अन्सान हो रहे हैं",
+      "confidence": -0.42
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 710.66,
+      "end_time": 712.98,
+      "text": "कि हमारे पुछ तो उधर हैं",
+      "confidence": -0.42
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 713.86,
+      "end_time": 719.7,
+      "text": "हम वो पर कोई पुछ न हो तो आप क्या किसे उडर्ड जाएंगे उसे पर प्रचापाएंगे",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 719.7,
+      "end_time": 722.98,
+      "text": "तब्या भहुत लेकिका रहे हैं उनका रात में",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 722.98,
+      "end_time": 728.34,
+      "text": "और उस रात में भाई जो रहा था नस्ता जपते इतना बढ़ा बड़ा",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 728.34,
+      "end_time": 732.98,
+      "text": "तलाव से भी जाता भहिरा पानि पाँगे",
+      "confidence": -0.63
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 733.86,
+      "end_time": 736.82,
+      "text": "इतना पानि कस्ता है कि इतना उच्चा हो गया",
+      "confidence": -0.42
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 736.82,
+      "end_time": 738.5,
+      "text": "नस्ता उसके निजिव रोगे",
+      "confidence": -0.42
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 738.5,
+      "end_time": 741.06,
+      "text": "तो वो तो च़िट चोड़ी-चौड़ी रड़का रड़की हैं",
+      "confidence": -0.42
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 741.06,
+      "end_time": 743.14,
+      "text": "देशे पान करते जाएगा",
+      "confidence": -0.42
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 743.14,
+      "end_time": 746.58,
+      "text": "इन्ज़प आएगा तो वो पहाँ रोते रगी",
+      "confidence": -0.42
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 779.67,
+      "end_time": 782.15,
+      "text": "तो बहुत अपना ज़ीजाएगा",
+      "confidence": -0.7
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 782.15,
+      "end_time": 784.79,
+      "text": "पेरना नहीं आता है",
+      "confidence": -0.7
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 784.79,
+      "end_time": 788.28,
+      "text": "कण पहाँ चोटे हो रहा है",
+      "confidence": -0.7
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 788.28,
+      "end_time": 789.96,
+      "text": "और दॉहार से नगे लिकल्गे आप लिए अचाणम से",
+      "confidence": -0.7
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 792.28,
+      "end_time": 795.0,
+      "text": "पेरनी नहीं आई तया तो नहीं जा सकते है",
+      "confidence": -0.7
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 795.0,
+      "end_time": 797.84,
+      "text": "लिकिन भारे दोस भी भीमार पड़या इन्हां",
+      "confidence": -0.7
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 797.84,
+      "end_time": 799.84,
+      "text": "उनको बचा जना भी है ना",
+      "confidence": -0.34
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 799.84,
+      "end_time": 806.84,
+      "text": "अगर आपका दोस दिमार पड़गे तो उनको तभी अच्छम पिवर जाते है आपको बचा जना भी है ना",
+      "confidence": -0.34
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 806.84,
+      "end_time": 813.15,
+      "text": "इस विजा लिए चेवो हम रोना रोना बन करो",
+      "confidence": -0.34
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 813.15,
+      "end_time": 816.47,
+      "text": "अभी हम पैरते हैं प्लैन बरागे",
+      "confidence": -0.34
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 816.47,
+      "end_time": 818.47,
+      "text": "कुछ प्लैन हो रहे हैं कि हम एक दम एक मिर्रेट के अंदर अंदर आप उनको विजा पड़गों पपोईगाओं caro",
+      "confidence": -0.62
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 822.5,
+      "end_time": 829.17,
+      "text": "और हमारे दोस को दॉक्रर के पाज रहो चाहते हैं",
+      "confidence": -0.62
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 829.17,
+      "end_time": 837.78,
+      "text": "यह विदोद के पास मुम्मी नहीं हैं, विदोद के पास कोईपी नहीं था, तो उसका खेरा तिक्या",
+      "confidence": -0.52
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 837.78,
+      "end_time": 842.2,
+      "text": "क्या प्लैन आपको क्या लग रहा हैं, क्या हो सकता है?",
+      "confidence": -0.52
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 842.2,
+      "end_time": 861.08,
+      "text": "आप शुछके हो भो लोगे",
+      "confidence": -0.52
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 861.08,
+      "end_time": 864.52,
+      "text": "कैसे हम इस गाउंचिन तो उस गाउंचिन चले जा सकते हैं?",
+      "confidence": -0.52
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 864.52,
+      "end_time": 871.0,
+      "text": "अप वो तो तुम भीनज बळाना पें।",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 871.0,
+      "end_time": 879.78,
+      "text": "वो तुम भीनज बळाना तो ज़ा सकते हैं?",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 879.94,
+      "end_time": 891.04,
+      "text": "अप वुजे टेना नहीं आता है तो हम क्या टेना पडें?",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 891.2,
+      "end_time": 896.31,
+      "text": "एक पूल बारभाद get it in the pool",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 896.31,
+      "end_time": 896.69,
+      "text": "अच्छा वो दूपे गए नहीं",
+      "confidence": -1.0
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 896.69,
+      "end_time": 901.69,
+      "text": "वो कोई अलेदे है तो शारिला सकते हो",
+      "confidence": -1.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 901.69,
+      "end_time": 910.88,
+      "text": "हुआ वोबी हो सकता है",
+      "confidence": -1.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 910.88,
+      "end_time": 922.58,
+      "text": "किसंधूसे शेट होगा हैं तो दुख जाएगा न",
+      "confidence": -1.3
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 922.58,
+      "end_time": 924.58,
+      "text": "येंपछे गाव में वो टरिज़ बनाने के लिए",
+      "confidence": -1.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 924.58,
+      "end_time": 931.84,
+      "text": "दॉनची में डि fiqueiहे उटと思います काता नाशिज्वी का गालि optimum",
+      "confidence": -2.51
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 935.58,
+      "end_time": 937.22,
+      "text": "विजनाजी रहे हैं",
+      "confidence": -2.51
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 937.22,
+      "end_time": 939.36,
+      "text": "अकáई पैल्ज ले रहे हैं",
+      "confidence": -2.51
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 939.36,
+      "end_time": 944.19,
+      "text": "विजनाजी कहा नRh",
+      "confidence": -2.51
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 954.31,
+      "end_time": 963.08,
+      "text": "शैम आप बुड मेर आपने कोई राम इका या",
+      "confidence": -2.51
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 963.7,
+      "end_time": 967.9,
+      "text": "जपाप ओंशा países ये पermii panes",
+      "confidence": -2.51
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 967.9,
+      "end_time": 972.75,
+      "text": "यह वूर्टेंबाल बरून होता है।",
+      "confidence": -0.56
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 972.75,
+      "end_time": 974.89,
+      "text": "यह वूर्टेंबाल में है ब्रिज।",
+      "confidence": -0.56
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 974.89,
+      "end_time": 976.89,
+      "text": "यहाँ तम चल्ड है न?",
+      "confidence": -0.56
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 976.89,
+      "end_time": 978.64,
+      "text": "अच्छा अच्छा.",
+      "confidence": -0.56
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 978.64,
+      "end_time": 982.98,
+      "text": "इसके ब्रिज देखे हो ना इसे बनते हैं.",
+      "confidence": -0.56
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 982.98,
+      "end_time": 984.98,
+      "text": "और ब्रिज के उपर बनते हैं?",
+      "confidence": -0.56
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 985.76,
+      "end_time": 991.46,
+      "text": "यहाँ विचे से कुछ पलाव, नजी, जी, कोई भी पानी का सोर्च जाते हैं.",
+      "confidence": -0.36
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 991.46,
+      "end_time": 993.46,
+      "text": "उसके उपरे ब्रिज बरते हैं, ना इप?",
+      "confidence": -0.36
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 993.46,
+      "end_time": 995.46,
+      "text": "ताकि ब्रिज क्यो बनते हैं?",
+      "confidence": -0.36
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 995.46,
+      "end_time": 999.46,
+      "text": "ताकि इस पाज में आवसानी से चलिज जाएं.",
+      "confidence": -0.36
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 999.46,
+      "end_time": 1003.72,
+      "text": "और भहुद मज्पूद बनना परता हैं.",
+      "confidence": -0.36
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1003.72,
+      "end_time": 1011.36,
+      "text": "और भहुद मज्पूद बनना परता हैं, ताकि उप घिर ना जाये.",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1011.36,
+      "end_time": 1016.0,
+      "text": "आपको सब विना और राहुल बनना परेगा.",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1016.0,
+      "end_time": 1024.0,
+      "text": "सब एक-एक विना हो, लड़क्या हो ते, विना और लड़क्ये हो ते, राहुल.",
+      "confidence": -0.3
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1076.76,
+      "end_time": 1080.76,
+      "text": "जो विना प्रणली शाइर पर विना परता हैं, लेकिन ब्रेज को क्या बनना हैं?",
+      "confidence": -0.59
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1080.76,
+      "end_time": 1085.63,
+      "text": "मज्पूद करना हैं कि उड़र गीर ना जाएं.",
+      "confidence": -0.59
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1085.63,
+      "end_time": 1093.93,
+      "text": "उसके वबर आप चीज़े रख के देखें कि ब्रेज मज्पूद बने कि नहीं.",
+      "confidence": -0.59
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1093.93,
+      "end_time": 1095.93,
+      "text": "तो हम क्या करेगे?",
+      "confidence": -0.59
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1095.93,
+      "end_time": 1105.4,
+      "text": "फ़क點 है येसार��़, बड़ान देखते हैं。",
+      "confidence": -2.71
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1106.84,
+      "end_time": 1111.02,
+      "text": "ब his is called Behavior Equation आपकी ह ox Sk Sixtation.",
+      "confidence": -2.71
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1112.68,
+      "end_time": 1115.6,
+      "text": "हमारे पास अच्छ लखरी भी नहीं हैं।",
+      "confidence": -2.71
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1115.9,
+      "end_time": 1125.38,
+      "text": "आपकी हप के हैबeenth regarded as a tough toothpick.",
+      "confidence": -2.71
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1125.38,
+      "end_time": 1128.94,
+      "text": "आपकी अस котором लगड़ा पर काटे तो मब後 knowing whispering!",
+      "confidence": -2.71
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1128.94,
+      "end_time": 1139.29,
+      "text": "आपके पास है। आप क्या बनाओगे अभी भी? ब्रेज बनाओगे।",
+      "confidence": -0.49
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1139.29,
+      "end_time": 1152.23,
+      "text": "बनाओगे? खुण्फुड़ेट यह सब बनाओगे। और नहीं वोरदे हैं. नहीं भाये था।",
+      "confidence": -0.49
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1152.23,
+      "end_time": 1169.21,
+      "text": "अभी हम पटकल एक गूब बना रहे हैं",
+      "confidence": -0.4
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1169.21,
+      "end_time": 1171.21,
+      "text": "अपना अपना गूब बना रहे हैं",
+      "confidence": -0.4
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1171.21,
+      "end_time": 1173.69,
+      "text": "अभी हर गूब में क्या होगा",
+      "confidence": -0.4
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1173.69,
+      "end_time": 1175.69,
+      "text": "लड़का और लड़की एक साथ में खाम परूओगे हैं",
+      "confidence": -0.4
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1175.69,
+      "end_time": 1177.69,
+      "text": "आपभस्में चबर नगी हैं",
+      "confidence": -0.4
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1177.69,
+      "end_time": 1179.69,
+      "text": "यह अपना रूप हैं",
+      "confidence": -0.4
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1184.39,
+      "end_time": 1186.97,
+      "text": "पहले आप दोनों आजाओ",
+      "confidence": -0.4
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1186.97,
+      "end_time": 1196.83,
+      "text": "हबुर परलो vectors टो में प्रजी जाओ रूड लोरीखही course",
+      "confidence": -2.6
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1199.68,
+      "end_time": 1201.2,
+      "text": "थो बरागा।",
+      "confidence": -2.6
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1206.99,
+      "end_time": 1208.67,
+      "text": "आप को दर्वाप से ये naap ka dhrarva paas sue ki",
+      "confidence": -2.6
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1219.2,
+      "end_time": 1221.32,
+      "text": "कैशे बनाना रहा पहले।",
+      "confidence": -2.6
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1223.6,
+      "end_time": 1225.68,
+      "text": "�icking",
+      "confidence": -2.6
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1230.46,
+      "end_time": 1233.7,
+      "text": "अप अगार पेळ आदी पेळ email",
+      "confidence": -2.6
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1234.66,
+      "end_time": 1238.24,
+      "text": "three boys and two girls",
+      "confidence": -0.73
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1239.24,
+      "end_time": 1244.25,
+      "text": "अभी आप दोनो आजाओ",
+      "confidence": -0.73
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1244.25,
+      "end_time": 1245.47,
+      "text": "these are girls",
+      "confidence": -0.73
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1245.55,
+      "end_time": 1246.55,
+      "text": "इस, आजाओ",
+      "confidence": -0.73
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1246.63,
+      "end_time": 1249.17,
+      "text": "अभ उदर बर झाओ",
+      "confidence": -0.73
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1249.23,
+      "end_time": 1257.2,
+      "text": "आप, अभी आप दीनो आजाओ",
+      "confidence": -0.73
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1257.2,
+      "end_time": 1280.53,
+      "text": "किन्ना होगै अभी आप दीनो आजाओ",
+      "confidence": -0.73
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1280.53,
+      "end_time": 1284.64,
+      "text": "आप दी, आप",
+      "confidence": -0.73
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1284.64,
+      "end_time": 1287.63,
+      "text": "अजाओ, उदर बर झाओ",
+      "confidence": -0.73
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1287.63,
+      "end_time": 1290.7,
+      "text": "कैसे शाचना हैं?",
+      "confidence": -0.73
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1290.7,
+      "end_time": 1293.68,
+      "text": "कैस, क्या बनाना हैं उपको begins the conversation",
+      "confidence": -0.73
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1293.68,
+      "end_time": 1295.97,
+      "text": "आप दोलों आजाओ",
+      "confidence": -0.29
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1312.16,
+      "end_time": 1314.16,
+      "text": "आप आजाओ",
+      "confidence": -0.29
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 1314.16,
+      "end_time": 1316.16,
+      "text": "आजाओ",
+      "confidence": -0.29
+    }
+  ]
+}

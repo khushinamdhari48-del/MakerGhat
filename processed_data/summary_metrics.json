@@ -1,0 +1,57 @@
+[
+  {
+    "filename": "OD11163_2025-12-23-121239.json",
+    "quality_status": "Success",
+    "transcription_density_wpm": 59.05,
+    "total_segments": 280,
+    "total_duration_sec": 1984.3,
+    "teacher_dominance_ratio": 90.18,
+    "student_participation_indicator": 31.79,
+    "interaction_count": 135,
+    "questions_asked": 30
+  },
+  {
+    "filename": "OD11163_2026-01-28-121933.json",
+    "quality_status": "Success",
+    "transcription_density_wpm": 93.11,
+    "total_segments": 180,
+    "total_duration_sec": 837.72,
+    "teacher_dominance_ratio": 82.03,
+    "student_participation_indicator": 37.22,
+    "interaction_count": 89,
+    "questions_asked": 28
+  },
+  {
+    "filename": "OD11165_2026-01-06-114155.json",
+    "quality_status": "Success",
+    "transcription_density_wpm": 75.73,
+    "total_segments": 534,
+    "total_duration_sec": 2057.46,
+    "teacher_dominance_ratio": 76.23,
+    "student_participation_indicator": 48.13,
+    "interaction_count": 281,
+    "questions_asked": 123
+  },
+  {
+    "filename": "OD11166_2026-01-12-142132.json",
+    "quality_status": "Success",
+    "transcription_density_wpm": 28.55,
+    "total_segments": 40,
+    "total_duration_sec": 477.04,
+    "teacher_dominance_ratio": 92.83,
+    "student_participation_indicator": 35.0,
+    "interaction_count": 26,
+    "questions_asked": 0
+  },
+  {
+    "filename": "OD11166_2026-01-20-115538.json",
+    "quality_status": "Success",
+    "transcription_density_wpm": 5.63,
+    "total_segments": 42,
+    "total_duration_sec": 3132.85,
+    "teacher_dominance_ratio": 98.67,
+    "student_participation_indicator": 38.1,
+    "interaction_count": 26,
+    "questions_asked": 6
+  }
+]

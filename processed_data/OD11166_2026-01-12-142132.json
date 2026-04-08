@@ -1,0 +1,309 @@
+{
+  "metadata": {
+    "filename": "OD11166_2026-01-12-142132.json",
+    "quality_status": "Success",
+    "transcription_density_wpm": 28.55,
+    "total_segments": 40,
+    "total_duration_sec": 477.04,
+    "teacher_dominance_ratio": 92.83,
+    "student_participation_indicator": 35.0,
+    "interaction_count": 26,
+    "questions_asked": 0
+  },
+  "utterances": [
+    {
+      "speaker_label": "Teacher",
+      "start_time": 0.24,
+      "end_time": 2.84,
+      "text": "चलो, तो शुरी बाथ cictho, भचेवाद हाथा।",
+      "confidence": -1.12
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 2.84,
+      "end_time": 28.0,
+      "text": "तो शुरी बाद हैं, तो हाथ फिल सामून लोग।",
+      "confidence": -1.12
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 28.0,
+      "end_time": 161.2,
+      "text": "क्या था। धिरे बोन जी। एसे नहीं बंद कर दो।",
+      "confidence": -1.12
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 161.2,
+      "end_time": 167.68,
+      "text": "अब बाबु, आप क です शूरी बंद कर दो.",
+      "confidence": -1.12
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 167.68,
+      "end_time": 206.14,
+      "text": "और नहीं क्या खहते हैं। अभिक्षाप कर गएं।",
+      "confidence": -1.12
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 206.14,
+      "end_time": 211.1,
+      "text": "ये जो ब्लाग बोड है ये अच्छे से देखना",
+      "confidence": -0.25
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 211.1,
+      "end_time": 214.94,
+      "text": "मैं परचाई बना के दिखाता हूँ आप लिए",
+      "confidence": -0.25
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 214.94,
+      "end_time": 218.61,
+      "text": "लेकिन डरो मत भूत नहीं आएगा",
+      "confidence": -0.25
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 218.61,
+      "end_time": 252.7,
+      "text": "भूत नहीं आएगा",
+      "confidence": -0.25
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 252.7,
+      "end_time": 254.7,
+      "text": "शाप नल लाए हो तो इसका क्या करोगे",
+      "confidence": -0.25
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 254.7,
+      "end_time": 268.78,
+      "text": "किस के पास पेंसिल है हात उठाइए",
+      "confidence": -0.25
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 292.11,
+      "end_time": 294.11,
+      "text": "चलो एक चीस करूँगा मैं",
+      "confidence": -0.26
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 294.11,
+      "end_time": 297.75,
+      "text": "लेकिन आप लोगों को साइलिंट रखा है",
+      "confidence": -0.26
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 297.75,
+      "end_time": 300.52,
+      "text": "चलो किस के पास पेंसिल नहीं है",
+      "confidence": -0.26
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 300.52,
+      "end_time": 306.52,
+      "text": "ये बिलो पेंसिल वाला",
+      "confidence": -0.26
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 306.52,
+      "end_time": 310.6,
+      "text": "ये बचारे के पास कुछ नहीं है, मेरे साथ आप",
+      "confidence": -0.26
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 310.6,
+      "end_time": 312.6,
+      "text": "अभी मैं क्या करूँगा",
+      "confidence": -0.26
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 312.6,
+      "end_time": 314.73,
+      "text": "मैं पास पर प्राच्छाई नहीं है",
+      "confidence": -0.26
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 315.73,
+      "end_time": 317.86,
+      "text": "इसको मैं जलाउंगा",
+      "confidence": -0.2
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 317.86,
+      "end_time": 320.86,
+      "text": "और जलाने के भाज ये लाइट तोसो आप कर दूँगा",
+      "confidence": -0.2
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 320.86,
+      "end_time": 324.36,
+      "text": "अच्छे से देखो",
+      "confidence": -0.2
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 324.36,
+      "end_time": 326.36,
+      "text": "परचाई था नहीं",
+      "confidence": -0.2
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 326.36,
+      "end_time": 328.74,
+      "text": "देखो ये ब्लैक बॉर्ड",
+      "confidence": -0.2
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 328.74,
+      "end_time": 338.23,
+      "text": "आप तुरो सा दिकाओ हात",
+      "confidence": -0.2
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 338.23,
+      "end_time": 341.8,
+      "text": "अए चोटा हात है",
+      "confidence": -0.2
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 341.8,
+      "end_time": 346.17,
+      "text": "इसका भी हात में बढ़ा कर दूँगा",
+      "confidence": -0.2
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 346.17,
+      "end_time": 348.17,
+      "text": "आप पिछे जाओ",
+      "confidence": -0.2
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 349.17,
+      "end_time": 352.32,
+      "text": "आप इस लोगा नहीं",
+      "confidence": -0.66
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 352.32,
+      "end_time": 379.38,
+      "text": "आप अरे ब्रा आन तो गया",
+      "confidence": -0.66
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 379.38,
+      "end_time": 381.38,
+      "text": "तो आप आप ने क्या देखा",
+      "confidence": -0.66
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 381.38,
+      "end_time": 476.52,
+      "text": "इस क्या था",
+      "confidence": -0.66
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 476.52,
+      "end_time": 481.16,
+      "text": "इसक्रें से जलाउंगा टॉर्च",
+      "confidence": -0.66
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 481.16,
+      "end_time": 507.1,
+      "text": "आप आप लोग पिछे देखोगे",
+      "confidence": -0.66
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 507.1,
+      "end_time": 509.51,
+      "text": "पंची बना सकत 所以।",
+      "confidence": -0.66
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 509.51,
+      "end_time": 518.9,
+      "text": "आप लोग की तुरो",
+      "confidence": -0.66
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 518.9,
+      "end_time": 531.08,
+      "text": "ये क्या है",
+      "confidence": -0.66
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 531.08,
+      "end_time": 533.08,
+      "text": "इस को वैरी गुट",
+      "confidence": -0.66
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 533.08,
+      "end_time": 545.51,
+      "text": "अपर है डोग या पर है पंछी",
+      "confidence": -0.34
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 545.51,
+      "end_time": 563.35,
+      "text": "सबी लोग सब कुछ बना सकते हूँ",
+      "confidence": -0.34
+    },
+    {
+      "speaker_label": "Student",
+      "start_time": 563.35,
+      "end_time": 565.35,
+      "text": "अखे चलो",
+      "confidence": -0.34
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 565.35,
+      "end_time": 1894.55,
+      "text": "क्या से लिए?",
+      "confidence": -0.34
+    },
+    {
+      "speaker_label": "Teacher",
+      "start_time": 1894.55,
+      "end_time": 1926.95,
+      "text": "सार लोग",
+      "confidence": -0.34
+    }
+  ]
+}
