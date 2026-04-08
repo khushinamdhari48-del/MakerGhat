@@ -86,7 +86,7 @@ pip install -r requirements-dev.txt
 
 ## 📦 Dashboard Setup (Local)
 ```powershell
-git clone https://github.com/LIKITH-S/classroom.git
+git clone https://github.com/khushinamdhari48-del/MakerGhat
 cd classroom
 python -m venv .venv
 .\.venv\Scripts\activate
