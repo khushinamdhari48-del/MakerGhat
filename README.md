@@ -15,16 +15,16 @@ This MVP provides an automated "Feedback Loop" for educators by transforming raw
 
 ## 📖 Project Documentation
 
-### **1. Our Approach**
-We utilized a **Hierarchical Batch Processing** pipeline to ensure data privacy and accuracy:
+### **1. My Approach**
+I utilized a **Hierarchical Batch Processing** pipeline to ensure data privacy and accuracy:
 1.  **Audio Ingestion**: Raw MP3 files are loaded from the `audio/` directory.
-2.  **Transcription & VAD**: We use `faster-whisper` (Medium model) with a Voice Activity Detection (VAD) filter. This ensures we only process segments with actual speech.
-3.  **Hinglish Context**: We inject an `initial_prompt` into the model to bias it toward mixed Hindi and English speech patterns, ensuring accurate transcription of technical terms used in MakerGhat sessions.
+2.  **Transcription & VAD**: I use `faster-whisper` (Medium model) with a Voice Activity Detection (VAD) filter. This ensures we only process segments with actual speech.
+3.  **Hinglish Context**: I inject an `initial_prompt` into the model to bias it toward mixed Hindi and English speech patterns, ensuring accurate transcription of technical terms used in MakerGhat sessions.
 4.  **Hybrid Cleaning**: The raw output is passed through a custom filtering engine that removes "Ghost Segments" (long durations with very few words) caused by ambient classroom noise.
 5.  **Analytics Layer**: Cleaned segments are parsed to calculate pedagogical metrics.
 6.  **Visualization**: Results are served via a Streamlit Dashboard for end-user interaction.
 
-### **2. How We Calculated Metrics**
+### **2. How I Calculated Metrics**
 Metrics are calculated using the `scripts/calculate_metrics.py` logic:
 -   **Teacher Dominance Ratio**: Calculated as `(Total Teacher Talk Duration / Total Clean Audio Duration) * 100`. This measures the percentage of time the teacher is speaking.
 -   **Student Participation Indicator**: Calculated as `(Number of Student Utterances / Total Segment Count) * 100`. This tracks how frequently students are speaking up, regardless of duration.
@@ -41,12 +41,12 @@ Metrics are calculated using the `scripts/calculate_metrics.py` logic:
 
 ### **4. Assumptions**
 - **Speaker Mapping**: The model assumes the dominant voice in teacher-led sessions is the "Teacher" and others are "Students."
-- **Language**: We assume the classroom environment is primarily Hinglish (Hindi + English).
-- **Silence Baseline**: We assume that any continuous segment longer than 60 seconds with fewer than 5 words represents background noise or a break in the session, rather than meaningful dialogue.
+- **Language**: I assume the classroom environment is primarily Hinglish (Hindi + English).
+- **Silence Baseline**: I assume that any continuous segment longer than 60 seconds with fewer than 5 words represents background noise or a break in the session, rather than meaningful dialogue.
 
 ### **5. Limitations**
 - **Overlapping Speech**: The current pipeline may struggle to accurately attribute speech during "Crosstalk" (multiple people speaking at once).
-- **Heuristic Diarization**: We use a heuristic start-time clustering for speaker labels rather than biometric voice fingerprints.
+- **Heuristic Diarization**: I use a heuristic start-time clustering for speaker labels rather than biometric voice fingerprints.
 - **Compute Heavy**: Reprocessing the raw audio requires a local NVIDIA GPU; the web-app is read-only for precomputed data.
 
 ---
@@ -57,9 +57,8 @@ If you wish to run the **transcription** and **metrics analysis** yourself (requ
 
 ### **1. Download Assets**
 Due to size constraints, the raw audio and AI model weights are hosted separately:
-- **[DOWNLOAD AUDIO (Google Drive)]**: https://drive.google.com/drive/folders/1zGIuBkR0BEjoC9cx3RK4F6IfFO4gZ-8y?usp=drive_link
+- **[DOWNLOAD AUDIO (Google Drive)]**: https://drive.google.com/drive/folders/1_WNSZFva4XPiRHlKxrhpUkrih5MiPk0D?usp=sharing
 - **[DOWNLOAD MODELS (Google Drive)]**: https://drive.google.com/file/d/1iXjkiJpXJSqX9rluintmmkY0y67aOLyi/view?usp=drive_link
-
 ### **2. Setup Directories**
 Place the extracted folders in the project root:
 ```text
